@@ -1,0 +1,4 @@
+ 所有资料都在这里：http://www.usb-i2c-spi.com/cn/down.htm
+ 使用手册：http://www.usb-i2c-spi.com/cn/rar/USB2XXX_Mamu.pdf
+ 开发包：http://www.usb-i2c-spi.com/cn/rar/USBIO_20090430.rar
+
