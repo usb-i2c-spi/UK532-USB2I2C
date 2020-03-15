@@ -1,3 +1,10 @@
+快速上手：
+1、全文阅读USB2XXX_Mamu使用说明.pdf
+2、安装UK532_USBIOX_Setup.exe驱动文件，双击直接安装即可
+3、测试运行USB2I2C_DEMO_VC.exe保证设备运行正常
+4、阅读数据手册及其他参考应用
+
+
 │  README.txt				//使用说明，文件目录
 │  USB2XXX_Mamu使用说明.pdf	//USB2I2C_DEMO、USB2ISP_DEMO、USB2SPI_DEMO使用说明
 |							//使用前请先阅读！
