@@ -13,10 +13,12 @@ Programming is made easy using an API-DLL,suitable for almost any programming la
 
 Tech：https://github.com/usb-i2c-spi
 
+RSC:https://share.weiyun.com/5QDgB9u
+
 Mail: usb-i2c-spi@sohu.com
 
 Shop: https://shop34643153.taobao.com
 
 Web: www.usb-i2c-spi.com
 
-RSC:
+
